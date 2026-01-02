@@ -1,0 +1,37 @@
+Order ID,Order Date,Category,Sub-Category,Product Name,State,Sales,Quantity,Discount,Profit
+CA-2025-001,2025-01-05,Technology,Phones,iPhone 15,California,52000,1,0.10,9000
+CA-2025-002,2025-01-18,Furniture,Chairs,Office Chair,Texas,18000,2,0.15,3000
+
+CA-2025-003,2025-02-06,Technology,Laptops,MacBook Pro,California,75000,1,0.08,14000
+CA-2025-004,2025-02-22,Office Supplies,Paper,A4 Sheets,New York,9000,6,0.00,2000
+
+CA-2025-005,2025-03-07,Technology,Phones,Samsung Galaxy S24,California,68000,1,0.10,12000
+CA-2025-006,2025-03-21,Furniture,Tables,Wooden Table,Florida,24000,1,0.20,4000
+
+CA-2025-007,2025-04-05,Technology,Accessories,Headphones,Texas,32000,3,0.10,6000
+CA-2025-008,2025-04-20,Office Supplies,Binders,Office Binder,New York,11000,5,0.00,2500
+
+CA-2025-009,2025-05-06,Technology,Phones,iPhone 15 Pro,California,88000,1,0.08,16000
+CA-2025-010,2025-05-19,Furniture,Sofas,Leather Sofa,Illinois,42000,1,0.18,7000
+
+CA-2025-011,2025-06-08,Technology,Laptops,Dell XPS,Texas,79000,1,0.07,15000
+CA-2025-012,2025-06-23,Office Supplies,Storage,File Cabinet,New York,21000,2,0.10,3500
+
+CA-2025-013,2025-07-07,Technology,Phones,OnePlus 12,California,65000,1,0.10,11000
+CA-2025-014,2025-07-21,Furniture,Chairs,Gaming Chair,Florida,26000,1,0.15,4200
+
+CA-2025-015,2025-08-05,Technology,Tablets,iPad Pro,Washington,72000,1,0.10,13000
+CA-2025-016,2025-08-19,Office Supplies,Paper,Printer Paper,Texas,12000,6,0.00,2800
+
+CA-2025-017,2025-09-06,Technology,Phones,Google Pixel 9,California,70000,1,0.08,12500
+CA-2025-018,2025-09-22,Furniture,Tables,Study Table,Illinois,28000,1,0.20,4500
+
+CA-2025-019,2025-10-05,Technology,Laptops,HP Spectre,California,85000,1,0.07,16000
+CA-2025-020,2025-10-20,Office Supplies,Art,Sketch Pens,New York,14000,5,0.00,3200
+
+CA-2025-021,2025-11-07,Technology,Phones,iPhone 15,California,95000,1,0.05,18000
+CA-2025-022,2025-11-21,Furniture,Sofas,Fabric Sofa,Texas,48000,1,0.15,8000
+
+CA-2025-023,2025-12-06,Technology,Laptops,MacBook Air,California,90000,1,0.06,17000
+CA-2025-024,2025-12-20,Office Supplies,Storage,File Cabinet,New York,25000,2,0.10,4000
+
